@@ -53,7 +53,7 @@ body {
 }
 
 .rk-header {
-  background-color: #fff;
+  background-color: #ff9100;
   position: relative;
   z-index: 5;
 }
@@ -1166,7 +1166,7 @@ body {
 }
 
 .item-1 {
-  background-image: url("../img/project-1.jpg");
+  background-image: url("../img/Baby-Garfield.webp");
 }
 @media (min-width: 40em) {
   #layout-grid:checked ~ .rk-portfolio .item-1 {
@@ -1175,15 +1175,15 @@ body {
 }
 
 .item-2 {
-  background-image: url("../img/project-2.jpg");
+  background-image: url("../img/odieeeee.png");
 }
 
 .item-3 {
-  background-image: url("../img/project-3.jpg");
+  background-image: url("../img/jon2.png");
 }
 
 .item-4 {
-  background-image: url("../img/project-4.jpg");
+  background-image: url("../img/lasana.webp");
 }
 
 .item-5 {
@@ -1350,7 +1350,7 @@ body {
 }
 
 .item-inside-1 {
-  background-image: url("../img/project-1.jpg");
+  background-image: url("../img/Baby-Garfield.webp");
   background-position: 50% 100%;
   background-size: 350%;
 }
@@ -1619,7 +1619,7 @@ body {
 }
 
 .post-7 {
-  background-image: url("../img/post-7.jpg");
+  background-image: url("../img/gordfiel.png");
 }
 @media (min-width: 40em) {
   #layout-grid:checked ~ .rk-blog .post-7 {
@@ -1689,7 +1689,7 @@ body {
 }
 
 .post-7 {
-  background-image: url("../img/post-7.jpg");
+  background-image: url("../img/gordfiel.png");
 }
 @media (min-width: 40em) {
   .rk-blog--columns .post-7 {
